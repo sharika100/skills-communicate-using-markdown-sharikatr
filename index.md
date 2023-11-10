@@ -2,6 +2,6 @@
 
 ## Welcome to the new Education Era
 
-![Teacher 4.0](/path_to_your_image_within_repository/teacher_4.0_image.png)
+![Teacher 4.0](/teacher2.0.webp)
 
 ###### Hope you like it
